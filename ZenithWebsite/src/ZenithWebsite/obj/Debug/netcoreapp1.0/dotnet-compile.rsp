@@ -231,6 +231,7 @@ C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Startup.cs
 C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Controllers\AccountController.cs
 C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Controllers\ActivitiesApiController.cs
 C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Controllers\ActivitiesController.cs
+C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Controllers\EventsApiController.cs
 C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Controllers\EventsController.cs
 C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Controllers\HomeController.cs
 C:\ZenithSociety\ZenithWebsite\src\ZenithWebsite\Controllers\ManageController.cs
