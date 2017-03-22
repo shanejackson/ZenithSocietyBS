@@ -47,7 +47,7 @@ namespace ZenithWebsite
                 .AddEntityFrameworkStores<ZenithContext>()
                 .AddDefaultTokenProviders();
 
-            var connection = Configuration["Data:DefaultConnection:ConnectionString"];
+            var connection = Configuration["DefaultConnection:ConnectionString"];
             services.AddDbContext<ZenithContext>(options => options.UseSqlite(connection));
             services.AddMvc();
 
